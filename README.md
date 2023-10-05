@@ -1,6 +1,8 @@
 <h1>Olá, me chamo Karoline Terra</h1>
 
 <h2>Seja bem-vindo!</h2>
+
+<a href="https://github.com/terrakaroline">Clique aqui</a> para acessar meu antigo perfil do github 
  
 - Tenho 22 anos;
 - Sou estudante de Sistemas de Informação na <a href="https://www.furg.br/">FURG</a>. 
